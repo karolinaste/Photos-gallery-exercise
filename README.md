@@ -1,2 +1,2 @@
 # Photos-gallery-exercise
-Trying to create a photo gallery using only HTML and CSS, it is now an responsible project - yet.
+Trying to create a photo gallery using HTML/CSS/JS, it is not a responsible project - yet.
